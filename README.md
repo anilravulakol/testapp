@@ -1,4 +1,4 @@
-﻿hit the blast and win the race…. Our target is to learn the process of devops
+﻿Hey I am learnig git… how is it going on its all fine
 Welcome to DevOps
 # Spring PetClinic Sample Application [![Build Status](https://travis-ci.org/spring-projects/spring-petclinic.png?branch=master)](https://travis-ci.org/spring-projects/spring-petclinic/)
 Deploy this sample application to Pivotal Web Services:
